@@ -1,0 +1,53 @@
+ epoch 1/10
+1/10 (719.51s - 7195.11s remaining)
+Epoch: 001      Train Loss: 0.599       Test: 0.531     Best Test Loss: 0.5306
+Gender Accuracy: 79.56% Age MAE: 6.13
+
+ epoch 2/10
+2/10 (1436.03s - 6462.15s remaining)
+Epoch: 002      Train Loss: 0.482       Test: 0.492     Best Test Loss: 0.4925
+Gender Accuracy: 81.53% Age MAE: 6.17
+
+ epoch 3/10
+Epoch 00003: reducing learning rate of group 0 to 5.0000e-05.
+3/10 (2152.05s - 5738.79s remaining)
+Epoch: 003      Train Loss: 0.413       Test: 0.499     Best Test Loss: 0.4925
+Gender Accuracy: 82.16% Age MAE: 6.23
+
+ epoch 4/10
+Epoch 00004: reducing learning rate of group 0 to 2.5000e-05.
+4/10 (2874.64s - 5030.62s remaining)
+Epoch: 004      Train Loss: 0.347       Test: 0.541   Best Test Loss: 0.4925
+Gender Accuracy: 81.91% Age MAE: 6.24
+
+ epoch 5/10
+Epoch 00005: reducing learning rate of group 0 to 1.2500e-05.
+5/10 (3605.64s - 4326.77s remaining)
+Epoch: 005      Train Loss: 0.288       Test: 0.625     Best Test Loss: 0.4925
+Gender Accuracy: 81.71% Age MAE: 6.12
+
+ epoch 6/10
+Epoch 00006: reducing learning rate of group 0 to 1.0000e-05.
+6/10 (4346.79s - 3622.32s remaining)
+Epoch: 006      Train Loss: 0.244       Test: 0.634     Best Test Loss: 0.4925
+Gender Accuracy: 81.53% Age MAE: 6.28
+
+ epoch 7/10
+7/10 (5069.85s - 2897.06s remaining)
+Epoch: 007      Train Loss: 0.213       Test: 0.697     Best Test Loss: 0.4925
+Gender Accuracy: 81.25% Age MAE: 6.34
+
+ epoch 8/10
+8/10 (5789.74s - 2171.15s remaining)
+Epoch: 008      Train Loss: 0.190       Test: 0.731     Best Test Loss: 0.4925
+Gender Accuracy: 81.82% Age MAE: 6.30
+
+ epoch 9/10
+9/10 (6508.93s - 1446.43s remaining)
+Epoch: 009      Train Loss: 0.176       Test: 0.827     Best Test Loss: 0.4925
+Gender Accuracy: 82.01% Age MAE: 6.21
+
+ epoch 10/10
+10/10 (7263.81s - 726.38s remaining)
+Epoch: 010      Train Loss: 0.163       Test: 0.817     Best Test Loss: 0.4925
+Gender Accuracy: 81.38% Age MAE: 6.22

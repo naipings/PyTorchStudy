@@ -1,0 +1,51 @@
+ epoch 1/10
+1/10 (451.63s - 4516.29s remaining)
+Epoch: 001      Train Loss: 0.552       Test: 0.460     Best Test Loss: 0.4601
+Gender Accuracy: 83.75% Age MAE: 6.19
+
+ epoch 2/10
+2/10 (899.98s - 4049.89s remaining)
+Epoch: 002      Train Loss: 0.400       Test: 0.443     Best Test Loss: 0.4429
+Gender Accuracy: 84.76% Age MAE: 6.24
+
+ epoch 3/10
+3/10 (1340.76s - 3575.37s remaining)
+Epoch: 003      Train Loss: 0.283       Test: 0.516     Best Test Loss: 0.4429
+Gender Accuracy: 84.25% Age MAE: 6.23
+
+ epoch 4/10
+4/10 (1790.25s - 3132.94s remaining)
+Epoch: 004      Train Loss: 0.196       Test: 0.659     Best Test Loss: 0.4429
+Gender Accuracy: 83.67% Age MAE: 6.17
+
+ epoch 5/10
+5/10 (2238.10s - 2685.72s remaining)
+Epoch: 005      Train Loss: 0.158       Test: 0.742     Best Test Loss: 0.4429
+Gender Accuracy: 83.28% Age MAE: 6.39
+
+ epoch 6/10
+6/10 (2687.01s - 2239.18s remaining)
+Epoch: 006      Train Loss: 0.139       Test: 0.796     Best Test Loss: 0.4429
+Gender Accuracy: 83.76% Age MAE: 6.24
+
+ epoch 7/10
+7/10 (3137.47s - 1792.84s remaining)
+Epoch: 007      Train Loss: 0.127       Test: 0.871     Best Test Loss: 0.4429
+Gender Accuracy: 83.30% Age MAE: 6.46
+
+ epoch 8/10
+8/10 (3586.45s - 1344.92s remaining)
+Epoch: 008      Train Loss: 0.120       Test: 0.872     Best Test Loss: 0.4429
+Gender Accuracy: 83.32% Age MAE: 6.45
+
+ epoch 9/10
+9/10 (4034.62s - 896.58s remaining)
+Epoch: 009      Train Loss: 0.112       Test: 0.876     Best Test Loss: 0.4429
+Gender Accuracy: 83.52% Age MAE: 6.40
+
+ epoch 10/10
+10/10 (4482.57s - 448.26s remaining)
+Epoch: 010      Train Loss: 0.106       Test: 1.008     Best Test Loss: 0.4429
+Gender Accuracy: 83.65% Age MAE: 6.40
+
+predicted gender: Female ; Predicted age 28

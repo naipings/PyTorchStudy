@@ -1,0 +1,58 @@
+ epoch 1/10
+1/10 (585.01s - 5850.13s remaining)
+Epoch: 001      Train Loss: 0.564       Test: 0.489     Best Test Loss: 0.4894
+Gender Accuracy: 82.46% Age MAE: 5.79
+
+ epoch 2/10
+2/10 (1146.43s - 5158.94s remaining)
+Epoch: 002      Train Loss: 0.425       Test: 0.469     Best Test Loss: 0.4687
+Gender Accuracy: 83.24% Age MAE: 6.17
+
+ epoch 3/10
+Epoch 00003: reducing learning rate of group 0 to 5.0000e-05.
+3/10 (1684.81s - 4492.82s remaining)
+Epoch: 003      Train Loss: 0.322       Test: 0.498     Best Test Loss: 0.4687
+Gender Accuracy: 82.67% Age MAE: 6.19
+
+ epoch 4/10
+Epoch 00004: reducing learning rate of group 0 to 2.5000e-05.
+4/10 (2215.46s - 3877.05s remaining)
+Epoch: 004      Train Loss: 0.230       Test: 0.593     Best Test Loss: 0.4687
+Gender Accuracy: 82.96% Age MAE: 6.18
+
+ epoch 5/10
+Epoch 00005: reducing learning rate of group 0 to 1.2500e-05.
+5/10 (2745.37s - 3294.45s remaining)
+Epoch: 005      Train Loss: 0.178       Test: 0.657     Best Test Loss: 0.4687
+Gender Accuracy: 82.73% Age MAE: 6.40
+
+ epoch 6/10
+Epoch 00006: reducing learning rate of group 0 to 1.0000e-05.
+6/10 (3275.54s - 2729.61s remaining)
+Epoch: 006      Train Loss: 0.151       Test: 0.755     Best Test Loss: 0.4687
+Gender Accuracy: 83.03% Age MAE: 6.31
+
+ epoch 7/10
+7/10 (3805.19s - 2174.39s remaining)
+Epoch: 007      Train Loss: 0.135       Test: 0.893     Best Test Loss: 0.4687
+Gender Accuracy: 82.14% Age MAE: 6.43
+
+ epoch 8/10
+8/10 (4335.52s - 1625.82s remaining)
+Epoch: 008      Train Loss: 0.128       Test: 0.888     Best Test Loss: 0.4687
+Gender Accuracy: 82.67% Age MAE: 6.51
+
+ epoch 9/10
+9/10 (4865.07s - 1081.13s remaining)
+Epoch: 009      Train Loss: 0.120       Test: 0.966     Best Test Loss: 0.4687
+Gender Accuracy: 82.73% Age MAE: 6.49
+
+ epoch 10/10
+10/10 (5395.70s - 539.57s remaining)
+Epoch: 010      Train Loss: 0.115       Test: 1.016     Best Test Loss: 0.4687
+Gender Accuracy: 82.76% Age MAE: 6.37
+
+predicted gender: Female ; Predicted age 19
+predicted gender: Female ; Predicted age 17
+predicted gender: Female ; Predicted age 14
+predicted gender: Male ; Predicted age 17

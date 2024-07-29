@@ -1,0 +1,26 @@
+ epoch 1/5
+1/5 (722.15s - 3610.76s remaining)
+Epoch: 001      Train Loss: 0.712       Test: 0.654     Best Test Loss: 0.6536
+Gender Accuracy: 73.50% Age MAE: 5.67
+
+ epoch 2/5
+2/5 (1444.96s - 2889.92s remaining)
+Epoch: 002      Train Loss: 0.640       Test: 0.624     Best Test Loss: 0.6242
+Gender Accuracy: 74.37% Age MAE: 5.89
+
+ epoch 3/5
+3/5 (2168.17s - 2168.17s remaining)
+Epoch: 003      Train Loss: 0.610       Test: 0.610     Best Test Loss: 0.6105
+Gender Accuracy: 75.18% Age MAE: 5.85
+
+ epoch 4/5
+4/5 (2892.41s - 1446.20s remaining)
+Epoch: 004      Train Loss: 0.591       Test: 0.615     Best Test Loss: 0.6105
+Gender Accuracy: 74.89% Age MAE: 5.80
+
+ epoch 5/5
+5/5 (3625.59s - 725.12s remaining)
+Epoch: 005      Train Loss: 0.573       Test: 0.607     Best Test Loss: 0.6073
+Gender Accuracy: 75.45% Age MAE: 5.97
+
+predicted gender: Male ; Predicted age 59
